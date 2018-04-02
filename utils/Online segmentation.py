@@ -9,7 +9,7 @@ import datetime
 from matplotlib.font_manager import FontProperties
 from matplotlib.cm import get_cmap
 import pickle
-from common.common import *
+from utils.common import *
 # framerate = 50.0
 
 EPS = 1e-15

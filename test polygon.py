@@ -1,5 +1,5 @@
 import numpy as np
-from common.common import *
+from utils.common import *
 EPS = 1e-9
 
 
